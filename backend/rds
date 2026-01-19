@@ -13,7 +13,7 @@ CORS(app)
 db = {
     "host": "",    # ==> your host
     "user": "admin",
-    "password": "Cloud1234",
+    "password": "Lakshmi$2026",
     "database": "" # ===> your db
 }
 
